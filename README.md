@@ -1,5 +1,5 @@
 <h1>Simple Banking Application:</h1> <br>
-This is a simple banking application built using Python's Tkinter library.
+This is a simple banking application built using Python's Tkinter library.<br>
 It allows users to create bank accounts, deposit and withdraw funds, and check their balance through a graphical user interface.
 <br>
 
